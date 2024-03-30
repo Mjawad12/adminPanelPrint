@@ -234,7 +234,7 @@ const Invoice = ({
                 <li className="inline-flex items-center gap-x-2 py-3 px-4 text-sm font-semibold bg-gray-50 border text-gray-800 -mt-px first:rounded-t-lg first:mt-0 last:rounded-b-lg dark:bg-slate-800 dark:border-gray-700 dark:text-gray-200">
                   <div className="flex items-center justify-between w-full">
                     <span>No of Products</span>
-                    <span>${Tproduct}</span>
+                    <span>{Tproduct}</span>
                   </div>
                 </li>
                 <li className="inline-flex items-center gap-x-2 py-3 px-4 text-sm font-semibold bg-gray-50 border text-gray-800 -mt-px first:rounded-t-lg first:mt-0 last:rounded-b-lg dark:bg-slate-800 dark:border-gray-700 dark:text-gray-200">
