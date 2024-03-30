@@ -31,6 +31,9 @@ const fonts = localFont({
 export const metadata = {
   title: "Project Nest",
   description: "Print invoices with ease",
+  icons: {
+    icon: "/favicon.ico",
+  },
 };
 
 export default function RootLayout({ children }) {
