@@ -1,4 +1,4 @@
-import SideBar from "@/Components/SideBar";
+import SideBar from "@/components/SideBar";
 import "./globals.css";
 import localFont from "next/font/local";
 const fonts = localFont({
